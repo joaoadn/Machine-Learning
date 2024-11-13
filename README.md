@@ -1,3 +1,3 @@
 # Inteligência Artificial 🤖
 
- Repositório dos códigos feitos na disciplina de Inteligência Artificial da UFLA, no semestre 2024/2.
+Este repositório contém estudos, projetos e experimentos relacionados a machine learning, incluindo algoritmos, modelos e técnicas de análise de dados.
