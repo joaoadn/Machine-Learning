@@ -1,3 +1,3 @@
-# Inteligência Artificial
+# Inteligência Artificial 🤖
 
-# Repositório dos códigos feitos na disciplina de Inteligência Artificial da UFLA, no semestre 2024/2.
+ Repositório dos códigos feitos na disciplina de Inteligência Artificial da UFLA, no semestre 2024/2.
